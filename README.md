@@ -1,8 +1,5 @@
 <h3 align="center">je suis lycéen à jean moulin</h3>
 
-- ⚡ Fun fact **Apparemment je parle beaucoup**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
