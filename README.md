@@ -1,7 +1,12 @@
-<h3 align="Left">je suis lycéen à jean moulin</h3>
+# Bienvenue sur mon GitHub !
 
-<p align="left">
-</p>
+## À propos de moi
 
-<h4 align="left">Langage le plus maitrisé:</h4>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Bonjour ! Je suis un étudiant en BTS SIO (2e année), et j'ai trop rien à dire de plus, 
+
+### languages maitrisé :
+Web : HTML, CSS, JS, Laravel, Symfony 
+Applicatif : C#, début flutter
+
+## Systèmes d'information : 
+Gestion des bases de données, maintenance des systèmes.
