@@ -6,7 +6,7 @@ Bonjour ! Je suis un étudiant en BTS SIO (2e année), et j'ai trop rien à dire
 
 ### languages maitrisé :
 Web : HTML, CSS, JS, Laravel, Symfony 
-Applicatif : C#, début flutter
+Applicatif : C#, Kotlin (KimTrack)
 
 ## Systèmes d'information : 
 Gestion des bases de données, maintenance des systèmes.
